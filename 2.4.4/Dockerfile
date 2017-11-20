@@ -1,4 +1,4 @@
-FROM conmio/java:8-jdk
+FROM conmio/java:7-jdk
 MAINTAINER Conmio developers
 
 ENV GRAILS_VERSION 2.4.4
